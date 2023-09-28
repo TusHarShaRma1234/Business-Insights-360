@@ -1,5 +1,7 @@
  Business-Insights-360
 
+[Project Link](https://www.novypro.com/project/business-360--1)
+
 **Project Overview:**
 I had the privilege to lead a transformative project for AtliQ in September 2023, aptly named "Business Insights 360." This project aimed to empower AtliQ to not only stay competitive in their market but also to thrive by making data-driven decisions. The key achievement of this project was the creation of a comprehensive and interactive Power BI dashboard that seamlessly integrated data from various sources, providing a holistic view of their business operations and performance.
 
